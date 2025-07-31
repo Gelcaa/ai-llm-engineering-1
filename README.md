@@ -3,6 +3,8 @@ This repository contains the python notebooks for PSI AI Academy Course on AI/LL
 
 This is meant to be used while taking the course.
 
+**This is Gelca’s personal submission for the AI/LLM Engineering course.*
+
 ### Instructions
 
 1. Go to the folder for the day.
